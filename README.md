@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
 |  |
