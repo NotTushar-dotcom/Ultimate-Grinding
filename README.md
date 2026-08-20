@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
