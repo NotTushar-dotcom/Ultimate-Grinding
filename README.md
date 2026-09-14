@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
