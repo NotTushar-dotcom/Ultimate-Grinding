@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3904-smallest-stable-index-ii) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
