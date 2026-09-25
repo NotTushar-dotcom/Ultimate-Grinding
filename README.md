@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3310-remove-methods-from-project) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -260,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
