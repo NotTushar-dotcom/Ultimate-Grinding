@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1301-number-of-paths-with-max-score) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
@@ -267,9 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
