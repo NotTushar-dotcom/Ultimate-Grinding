@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -278,10 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
