@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3875-construct-uniform-parity-array-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1301-number-of-paths-with-max-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3665-twisted-mirror-path-count) |
 ## Sorting
 |  |
 | ------- |
