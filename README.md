@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1882-process-tasks-using-servers) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3364-minimum-positive-sum-subarray) |
