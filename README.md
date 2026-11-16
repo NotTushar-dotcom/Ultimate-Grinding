@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3498-reverse-degree-of-a-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
