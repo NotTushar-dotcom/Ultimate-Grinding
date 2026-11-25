@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -410,4 +413,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
