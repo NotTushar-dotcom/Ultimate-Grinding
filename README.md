@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NotTushar-dotcom/Ultimate-Grinding/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
